@@ -7,7 +7,7 @@ angular.module('FlyveMDM')
  */
 
 angular.module('FlyveMDM')
-  .constant('GLPI_API_URL', 'https://stork-mdm.com/glpi/apirest.php')
-  .constant('USER_TOKEN', 'q56hqkniwot8wntb3z1qarka5atf365taaa2uyjrn')
+  .constant('GLPI_API_URL', 'https://dev.flyve.org/glpi/apirest.php')
+  .constant('USER_TOKEN', 'kbd2wdhj8hqgc6ggj20acdkdfb6gyxt4rc2hem9n')
   .constant('DEBUG', false)
   .constant('BUILD_ID', 0);
